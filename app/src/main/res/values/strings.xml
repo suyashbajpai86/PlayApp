@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlayApp</string>
+    <string name="initialCounter">0</string>
+    <string name="toast">Toast</string>
+    <string name="count">Count</string>
+    <string name="random">Random</string>
+    <string name="any_number_between_0_to_any_number">Any number between 0 to %1d</string>
+    <string name="default_number">\?</string>
+    <string name="all_numbers_between_0_to_1d">All numbers between 0 to %1d</string>
+    <string name="list">LIST</string>
+</resources>
